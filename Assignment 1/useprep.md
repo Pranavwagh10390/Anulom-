@@ -1,0 +1,7 @@
+- Get student visa (F1)
+- Book flight and housing
+- Arrange financial proof and insurance
+- Vaccination and health docs
+- Preload academic materials
+- Learn local transport, emergency contacts
+- Familiarize with university campus, schedules
