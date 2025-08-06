@@ -1,3 +1,0 @@
-{"code":"SQLITE_ERROR","errno":1,"level":"error","message":"Error clearing all cached sums: SQLITE_ERROR: no such table: cached_sums","stack":"Error: SQLITE_ERROR: no such table: cached_sums","timestamp":"2025-08-05T15:37:37.245Z"}
-{"code":"SQLITE_ERROR","errno":1,"level":"error","message":"Error clearing all cached sums: SQLITE_ERROR: no such table: cached_sums","stack":"Error: SQLITE_ERROR: no such table: cached_sums","timestamp":"2025-08-05T15:40:52.420Z"}
-{"code":"SQLITE_ERROR","errno":1,"level":"error","message":"Error clearing all cached sums: SQLITE_ERROR: no such table: cached_sums","stack":"Error: SQLITE_ERROR: no such table: cached_sums","timestamp":"2025-08-05T15:40:52.691Z"}
